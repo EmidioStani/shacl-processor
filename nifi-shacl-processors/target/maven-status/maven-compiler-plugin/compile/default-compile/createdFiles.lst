@@ -1,0 +1,16 @@
+org\rdf\validators\OWLValidatorProcessor$1.class
+org\rdf\validators\utils\RDFExtractor.class
+org\rdf\validators\RDFSValidatorProcessor.class
+org\rdf\validators\OWLValidatorProcessor.class
+org\rdf\validators\GenericRuleValidatorProcessor.class
+org\rdf\validators\SHACLValidatorProcessor.class
+org\rdf\validators\OWLValidatorProcessor$2.class
+org\rdf\validators\SPARQLValidatorProcessor.class
+org\rdf\validators\utils\MimeTypes.class
+org\rdf\validators\GenericRuleValidatorProcessor$1.class
+org\rdf\validators\RDFSValidatorProcessor$1.class
+org\rdf\validators\SHACLValidatorProcessor$1.class
+org\rdf\validators\SPARQLValidatorProcessor$1.class
+org\rdf\validators\RDFSValidatorProcessor$2.class
+org\rdf\validators\utils\ValidationResult.class
+org\rdf\validators\GenericRuleValidatorProcessor$2.class

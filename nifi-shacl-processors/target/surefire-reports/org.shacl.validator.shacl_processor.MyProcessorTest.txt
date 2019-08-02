@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.shacl.validator.shacl_processor.MyProcessorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.932 s - in org.shacl.validator.shacl_processor.MyProcessorTest
